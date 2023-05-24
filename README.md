@@ -7,6 +7,3 @@
   <li>AI dev with 0 successful project</li>
 </ul>
 <br />
-
-<h2>Github stats</h2>
-![Most Used Languages](https://raw.githubusercontent.com/emirsassan/github-stats-transparent/output/generated/languages.svg)
